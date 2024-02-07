@@ -1,0 +1,66 @@
+Algoritmos 08/08/2023
+
+* oq é algoritmo?
+    algoritimo é uma sequência de procedimentos de codígos
+
+
+* declara variáveis: 
+    "declara variáveis é reserva espaço de memoría ram"
+
+
+* tipo de variáveis: 
+    númerica : 100.70
+    inteiro : 100
+    real : 
+    texto(steny): qualquer tipo de texto 
+    boleano: (verdadeiro/falso)
+    data (formato de trás para frente:ano,mês,dia):2023/08/08
+    hora (horas,minutos,segundos): hh.mm.ss
+
+
+* estrutura básica de um algoritmo:
+		
+		algoritimo Nome_Do_Algoritmo
+	Variáveis
+		Declaração de variáveis
+	Procedimentoa
+		Declaração dos procedimentos
+	Funções
+		Declaração das funções
+	Início
+		Corpo do algoritmo
+	Fim
+
+
+--10/08/2023
+
+* etapas para resolver um problema 
+
+		1 >indetificar 
+		2 >fluxograma
+		3 >entender o fluxograma
+		4 >desenhar o algaritmo
+		5 >teste de mesa
+		6 >portugal
+		7 >px codigo (php,python,java)
+
+
+--24/08/2023
+
+	as variavéis sevem para colocar valor no sistema 
+
+--28/08/2023
+
+* Estrutura de repetção
+	"enquanto" 
+			é a chave para estrutura
+
+
+	while(repita) =javascript
+
+	for(para-faca) =javascript
+
+
+		
+
+

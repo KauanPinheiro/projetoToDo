@@ -1,0 +1,41 @@
+02
+
+
+
+Especialidade:   clinica geral
+				dermatoligia
+
+
+Medicos: 		nome
+				crm
+				endereco
+				*telefone
+
+Horarios_de_atendimento:   hora inicio
+						   hora fim
+
+
+plano:	cnpj
+        endereco
+        *telefone
+
+
+paciente: nome
+		  *telefone
+
+
+
+
+------------------
+
+03
+
+clientes:   nome
+			conta
+
+caixa:
+
+DepositoInicial: 
+
+
+

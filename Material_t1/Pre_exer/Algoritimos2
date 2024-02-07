@@ -1,0 +1,40 @@
+
+var:
+	n :inteiro
+	dor de cabeça
+
+
+	Escreval("O pagamento será: ")
+	   
+	   n <-1
+	   
+	   enquanto n=64 faca
+	    escreval ("Valor de grão" ,n)
+	    
+	    n<-n*2
+
+    fimenquanto
+
+
+
+    para n de 1 ate 64 faca
+   n<-n*2
+   escreval(n)
+   fimpara
+
+
+
+
+
+   var:
+   	i,n,num :inteiro
+
+
+   	Início
+   		escreval("Insíra o 1 primeiro número" ,i )
+   		leia(num)
+
+   		se num2 >num entao
+   		fimse
+   	fim
+   

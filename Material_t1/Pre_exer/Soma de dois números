@@ -1,0 +1,17 @@
+Soma de dois números 
+
+	var:num1,num2,resp :inteiro
+
+
+Início
+	Escreval("Calculadora de soma de dois números")
+
+	escreval("Insira o primeiro número")
+	leia("num1")
+	escreval("Insira o segundo número")
+	leia(num2)
+
+	resp <-(num1+num2)
+
+	escreval(O resultado é ,resp)
+fim

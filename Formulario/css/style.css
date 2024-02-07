@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: lightgray;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+form h2{
+    font-size: 25px;
+    color: #ffff;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 130px;
+    width: 300px;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #2c0041;
+}
+form div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+form input{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #560c69;
+    padding: 20px;
+    width: 400px;
+    height: 15px;
+    border: 1px solid #560c69;
+    border-radius: 15px;
+    outline: none;
+    transition: 500ms ease-in-out;
+    
+
+    &:hover{
+        &::placeholder{
+            color: orange;
+        }
+    }
+    &::placeholder{
+        color: #ffff;
+        font-size: 16px;
+        position: absolute;
+        margin-left: 40px;
+        margin-top: 0px;
+        transition: transition: 500 ms ease-in-out;
+    }
+}
+form
+#bt{
+    margin-left: 145px;
+    margin-bottom: 30px;
+    padding: 20px;
+    width: 195px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #94268F;   
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: #ffff;
+    &:hover{
+        color: orange   ;
+    }
+}
+#lbLogin{
+    position: absolute;
+    color: #fff;
+    padding: 15px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+#lbEmail{
+    position: absolute;
+    color: #fff;
+    padding: 15px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+#lbSenha{
+    position: absolute;
+    color: #fff;
+    padding: 15px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+#lbCs{
+    position: absolute;
+    color: #fff;
+    padding: 15px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+#lbPhone{
+    position: absolute;
+    color: #fff;
+    padding: 15px;
+    margin-left: 30px;
+    font-size: 25px;
+}

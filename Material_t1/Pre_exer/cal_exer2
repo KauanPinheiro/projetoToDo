@@ -1,0 +1,29 @@
+cal_exer2
+
+
+var
+	a,b,soma,sub,divi,multi :real
+	 
+Início
+	escreval("Calculadora")
+
+	escreval("Insira o primeiro némero")
+		leia(a)
+	escreval("Insira o segundo número")
+		leia(b)
+
+	soma <-(a+b)
+		escreval("O resultado da soma é ,"soma)
+
+	sub <-(a-b)
+		escreval("O resultado da subtração é ,"sub)
+
+	divi <-(a/b)
+		escreval("O resultado da divisão é ,"divi)
+
+	multi <-(a*b)
+		escreval("O resuldo da multiplicação é ,"multi)
+		
+
+
+fim

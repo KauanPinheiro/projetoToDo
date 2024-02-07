@@ -1,0 +1,40 @@
+Doc test2
+	Sumário:
+	 		1.Introdução 
+	 		2.Problemática
+	 		3.Objetivos Gerais e Especifícos
+	 		4.Desenvolvimento
+	 		5.Conclusão
+	 		6.Referências
+	1-Introdução 
+		A Clean Food(comida limpa) foi criada no ano de 2023, por cinco jovens que se importa 
+	com a diversidade alimentar bucando trazer conhecimento para as pessoas de todos os gosto.
+		Com o objetivo de trazer mais sabor e vida, apresentando receitas de 
+	diversas modalidades, focando no publíco: vegano,vegetariano e pessoas com intolerâcia alimentar.Sempre ligada as questões ambientais com um de seus valores "quanto mais natural melhor" tanto para o nosso corpo quanto para a sociedade, se mantendo atualizada com a tendência do momento e inovando no mundo culinário trazendo uma explosão de sabor para seus usuários.
+	2-Problemática
+	   Mesmo com a grande massa de pessoa que vem aderindo ao veganismo ou 
+	vegetarianismo, ou com restrições alimentares, ainda segue dificil de achar um conteúdo direcionado a esse público na web.Sendo que "as pesquisas realizada pela sociendade Vegetariana Brasileira revela que os adeptos da alimentação vegetariana somam 30 milhões de Brasileiros vegetarianos,cerca de 7 milhões seriam veganos(3,2% da populção),aqueles que não consomen nenhum produto que tenha origem ou que foi testado em animais.
+	3-Objetivos Gerais e Específicos
+		Nosso site se propõe a fornecer uma experiência mais direcionada a pessoas
+	que possuam limitações alimentares (como vegetarianos, veganos e pessoas com intolerância a certos alimentos), com isso queremos que o usuário se sinta acolhido e possa ter um acesso mais simples e direto.
+	4-Desenvolvimento
+		O cronograma para o desenvolvimento da Clean Food foi divídido em 3 
+	semanas.Sendo que a primeira semana foi de prototipação,brainstrom,desenvolvimento de slides com o levantamento de dados e indenteidade da empresa. Na segunda semana foi html e css das pagínas, e a continuação do figma terminado o design de outras partes web e mobile ,o desenvolvimento da documentação também estava em andamento nesse período. Com a terceira semana foi o acabamento final com a revisão do html e css do síte jutamento com os teste de funcionalidade e responsividade ,o figma já concluido e com o design inovador no mercado e para finalizar a terceira semana a revisão da documentação e sua conclusão.
+		A divisão de tarefas vou pensanda nas habilidade que cada membro mais 
+	domina e tem afinidade,os  integrantes responsáveis pelo design do site utilizando o figma como ferramenta principal foi : jennifer Melo e Diego Sampaio, já os encarregos de transforma o figma em linhas de html,css e javascript foi :Gabriel Mirando e Samuel Rocha ,e com a parte da documentação do projeto foi :Kauan Pinheiro ,cada um responsável por uma pequena parte da Clean Food e com trocas de informação e se ajudando para deixar o síte melhor, fluindo perfeitamente bem o decorrer dos dias utilizando a metodologia agil.
+		O design foi pensado em facilidade e pratcidade para o o usuário, com o 
+	objetivo de ser o mais limpo possível e sem poluição visual, contendo 5 pagínas bem intuitivas e uma barra de pesquisa na parte superior direita, como fonte predominate é a "coiny".A paleta de cores foi inspirada em um exemplo de app vegano "Acervo Veg" um app fictício que usa a cor predominate o roxo,um dos motivos para manter o roxo é porque :"representa a fruta brasileira açaí cultivada predominantemente na região amazônica,então alem desse motivo a cor roxa nos convida à reflexão e transformação."
+		Hospagem do síte foi escolhida pensando na facilidade e praticidade com o 
+	"gitpage" foi escolhido para a hospedagem.
+	5-Conclusão
+		Os objetivos com o projeto foram 100% alcançado desde da ideia tirada do 
+	papel até subir na web, com todos os integrantes trabalhando de forma coloborativa e sincronizada, aplicando todos os conehcimentos adquirindo durante o início até os tempos de hoje no curso, com o síte ficando igual o protótiipo do figma e atendendo todas as nossas expectativas.
+	6-Referências
+		ferramentas utilizadas: Figma,Visual Code,Canvas. 
+
+
+
+
+
+		
+
